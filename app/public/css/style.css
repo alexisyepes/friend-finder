@@ -10,6 +10,10 @@
     text-align: center;
 }
 
+#head-nav-links {
+  float: right;
+}
+
 #footerText {
     text-align: center;
 }
@@ -24,8 +28,8 @@ body {
 
   #avatarGirl,
   #avatarBoy {
-    width: 300px;
-    height: 500px;
+    width: 250px;
+    height: 450px;
   }
 
   #startSurvey-btn {
@@ -47,3 +51,38 @@ body {
   #modal1 {
     background-color: black;
   }
+
+  @media only screen and (max-width: 996px) {
+    #iconPeople1, #iconPeople2, #iconPeople3 {
+      visibility: hidden;
+    }
+
+    #iconPeopleFixed1, #iconPeopleFixed2, #iconPeopleFixed3 {
+      width: 50%;
+      margin-left: 40px;
+    }
+
+    #avatarGirl {
+      margin-left: -50px;
+    }
+
+    #startSurvey-btn {
+      width: 100%;
+    }
+
+    #rowHome {
+      height: 500px;
+    }
+
+    #logo {
+      visibility: hidden;    
+    }
+
+    #head-nav-links {
+      visibility: visible;
+    }
+
+  }
+
+
+  
