@@ -32,6 +32,7 @@ This is a compatibility-based "FriendFinder" application -- basically a dating a
 
 * A list of all friends can be accessed on the api/friends route
 
-![Image 1](./app/public/img/screenshotHome.png)
+The app can be accessed through the following link:
 
+https://blooming-dusk-13977.herokuapp.com/
 
