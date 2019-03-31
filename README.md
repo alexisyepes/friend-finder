@@ -32,6 +32,6 @@ This is a compatibility-based "FriendFinder" application -- basically a dating a
 
 * A list of all friends can be accessed on the api/friends route
 
-![Image 1](./app/public/img/screenshotHome.png)
+![Image 1](https://res.cloudinary.com/bootcamp2019/image/upload/v1553993654/screenshotHome.png)
 
 
